@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iLori-Jiang
-- 👀 I’m interested in `AI/CV`
-- 🌱 I’m currently learning `AI/CV`
-- 💞️ I’m looking to collaborate on `null`
+- 👋 Hi, I’m iLori
+- 👀 I’m interested in `Robotics, AI, CV`
+- 🌱 I’m currently learning `AI, CV`
+- 💞️ I’m looking to collaborate on `anyone I'm interested`
 - 📫 How to reach me `no way baby`
 
 <!---
