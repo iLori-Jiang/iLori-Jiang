@@ -1,4 +1,4 @@
-- 👋 Hi, I’m iLori
+- 👋 Hi, I’m `iLori`
 - 👀 I’m interested in `Robotics, AI, CV`
 - 🌱 I’m currently learning `AI, CV`
 - 💞️ I’m looking to collaborate on `anyone I'm interested`
